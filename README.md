@@ -1,6 +1,10 @@
-# Scientific RAG Pipeline
+# 🔬 Scientific RAG Pipeline
+> **A robust AI pipeline for answering complex scientific questions by orchestrating semantic search over documents and SQL queries across structured experimental datasets.**
 
-A robust AI pipeline for answering complex scientific questions by orchestrating semantic search over documents and SQL queries across structured experimental datasets.
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Ollama](https://img.shields.io/badge/Ollama-Local_AI-white?style=for-the-badge)](https://ollama.com/)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ---
 
